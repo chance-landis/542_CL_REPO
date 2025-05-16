@@ -1,0 +1,92 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "Sweet Treats Creamery",
+      "address": {
+        "street": "123 Main St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101"
+      },
+      "contact": {
+        "phone": "123-456-7890",
+        "website": "https://sweettreatscreamery.com"
+      },
+      "menu": {
+        "flavors": [
+          "Vanilla",
+          "Chocolate",
+          "Strawberry",
+          "Mint Chocolate Chip",
+          "Cookie Dough"
+        ],
+        "toppings": [
+          "Sprinkles",
+          "Hot Fudge",
+          "Caramel",
+          "Whipped Cream",
+          "Cherries"
+        ],
+        "customizations": {
+          "serving_options": ["Cone", "Cup"],
+          "cone_types": ["Waffle Cone", "Sugar Cone", "Cake Cone"],
+          "cup_sizes": ["Small", "Medium", "Large"]
+        }
+      },
+      "hours": {
+        "monday": "10:00 AM - 9:00 PM",
+        "tuesday": "10:00 AM - 9:00 PM",
+        "wednesday": "10:00 AM - 9:00 PM",
+        "thursday": "10:00 AM - 9:00 PM",
+        "friday": "10:00 AM - 10:00 PM",
+        "saturday": "10:00 AM - 10:00 PM",
+        "sunday": "12:00 PM - 8:00 PM"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Frozen Bliss",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98102"
+      },
+      "contact": {
+        "phone": "987-654-3210",
+        "website": "https://frozenbliss.com"
+      },
+      "menu": {
+        "flavors": [
+          "Mango Sorbet",
+          "Pistachio",
+          "Rocky Road",
+          "Salted Caramel",
+          "Cookies and Cream"
+        ],
+        "toppings": [
+          "Crushed Oreos",
+          "Peanuts",
+          "Marshmallow Sauce",
+          "Chocolate Chips",
+          "Gummy Bears"
+        ],
+        "customizations": {
+          "serving_options": ["Cone", "Cup"],
+          "cone_types": ["Waffle Cone", "Sugar Cone"],
+          "cup_sizes": ["Small", "Medium", "Large"]
+        }
+      },
+      "hours": {
+        "monday": "11:00 AM - 8:00 PM",
+        "tuesday": "11:00 AM - 8:00 PM",
+        "wednesday": "11:00 AM - 8:00 PM",
+        "thursday": "11:00 AM - 8:00 PM",
+        "friday": "11:00 AM - 9:00 PM",
+        "saturday": "11:00 AM - 9:00 PM",
+        "sunday": "12:00 PM - 7:00 PM"
+      }
+    }
+  ]
+}
