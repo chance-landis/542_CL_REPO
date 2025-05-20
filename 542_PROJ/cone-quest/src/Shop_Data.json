@@ -65,34 +65,42 @@
     },
     {
       "id": 2,
-      "name": "Frozen Bliss",
+      "name": "Molly Moon’s Homemade Ice Cream",
       "address": {
-        "street": "456 Elm St",
+        "street": "2615 NE 46th St",
         "city": "Seattle",
         "state": "WA",
-        "zip": "98102"
+        "zip": "98105"
       },
       "contact": {
-        "phone": "987-654-3210",
-        "website": "https://frozenbliss.com"
+        "phone": "206-294-4389",
+        "website": "http://www.mollymoon.com/locations/u-village"
       },
       "menu": {
         "flavors": [
-          "Mango Sorbet",
-          "Pistachio",
-          "Rocky Road",
+          "Cookie Dough",
+          "Cookies & Cream",
+          "Honey Lavender",
+          "Iced Latte",
+          "Melted Chocolate",
           "Salted Caramel",
-          "Cookies and Cream"
+          "\"Scout\" Mint Brownie",
+          "Strawberry",
+          "Sweet Cream",
+          "Vegan Coconut Chunk",
+          "Yeti"
+        ],
+        "seasonal_flavors": [
+          "Birthday Cake",
+          "German Chocolate Cake",
+          "Strawberry Shortcake",
+          "Vegan Birthday Cake"
         ],
         "toppings": [
-          "Crushed Oreos",
-          "Peanuts",
-          "Marshmallow Sauce",
-          "Chocolate Chips",
-          "Gummy Bears"
+          "N/A"
         ],
         "customizations": {
-          "serving_options": ["Cone", "Cup"],
+          "serving_options": ["Cone", "Cup", "Waffle Bowl"],
           "cone_types": ["Waffle Cone", "Sugar Cone"],
           "cup_sizes": ["Small", "Medium", "Large"]
         }
