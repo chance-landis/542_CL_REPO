@@ -42,15 +42,10 @@
           "Cookie",
           "Cookie Dough"
         ],
-        "merchandise": [
-          "Sweatshirts",
-          "Greeting Card",
-          "Pint Club"
-        ],
         "customizations": {
           "serving_options": ["Cone", "Cup"],
           "cone_types": ["Waffle Cone"],
-          "cup_sizes": ["Small", "Medium", "Large"]
+          "cup_sizes": ["Small", "Medium", "Large", "Pint"]
         }
       },
       "hours": {
@@ -65,7 +60,7 @@
     },
     {
       "id": 2,
-      "name": "Molly Moon’s Homemade Ice Cream",
+      "name": "Molly Moon's Homemade Ice Cream",
       "address": {
         "street": "2615 NE 46th St",
         "city": "Seattle",
@@ -97,22 +92,145 @@
           "Vegan Birthday Cake"
         ],
         "toppings": [
-          "N/A"
+          "Kinako Muddy Buddies",
+          "Matcha Hard Shell",
+          "Hot Fudge",
+          "Vegan Chocolate Hard Shell",
+          "Vanilla Bean Caramel",
+          "Sprinkles",
+          "Lemon Curd",
+          "Whipped Cream",
+          "Chukar Cherries",
+          "Waffle Cone Crunch",
+          "Brownie Bits",
+          "Mini Chocolate Chips"
         ],
         "customizations": {
           "serving_options": ["Cone", "Cup", "Waffle Bowl"],
           "cone_types": ["Waffle Cone", "Sugar Cone"],
-          "cup_sizes": ["Small", "Medium", "Large"]
+          "cup_sizes": ["Small", "Medium", "Large", "Pint"]
         }
       },
       "hours": {
-        "monday": "11:00 AM - 8:00 PM",
-        "tuesday": "11:00 AM - 8:00 PM",
-        "wednesday": "11:00 AM - 8:00 PM",
-        "thursday": "11:00 AM - 8:00 PM",
-        "friday": "11:00 AM - 9:00 PM",
-        "saturday": "11:00 AM - 9:00 PM",
-        "sunday": "12:00 PM - 7:00 PM"
+        "monday": "11:00 AM - 11:00 PM",
+        "tuesday": "11:00 AM - 11:00 PM",
+        "wednesday": "11:00 AM - 11:00 PM",
+        "thursday": "11:00 AM - 11:00 PM",
+        "friday": "11:00 AM - 11:00 PM",
+        "saturday": "11:00 AM - 11:00 PM",
+        "sunday": "11:00 AM - 11:00 PM"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sweet Alchemy Ice Cream",
+      "address": {
+        "street": "4301 University Way NE",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98105"
+      },
+      "contact": {
+        "phone": "206-632-0243",
+        "website": "http://sweetalchemyicecreamery.com/"
+      },
+      "menu": {
+        "flavors": [
+          "Capitol Coffee",
+          "DarkSide",
+          "London Fog",
+          "Sweet Cream",
+          "Aztec Chocolate",
+          "Blackberry Crumble",
+          "Cookies and Coldbrew",
+          "Dalgona Coffee",
+          "Lemon Custard",
+          "Birthday Party",
+          "Salted Caramel",
+          "Strawberry",
+          "Strawberry Shortcake",
+          "Tale of Two Teas",
+          "UW Honey",
+          "Vanilla Cubed",
+          "Yuzu Almond Brittle",
+          "Vegan Blue Lavender",
+          "Vegan Midnight",
+          "Vegan Strawberry",
+          "Banana Pudding"
+        ],
+        "toppings_extras": [
+          "Whipped Cream",
+          "Chocolate Sauce",
+          "Brownie Bites"
+        ],
+        "customizations": {
+          "serving_options": ["Cone", "Cup", "Sundae"],
+          "cone_types": ["Waffle Cone", "Sugar Cone"],
+          "cup_sizes": ["Small", "Medium", "Large", "Pint"]
+        }
+      },
+      "hours": {
+        "monday": "12:00 PM - 10:00 PM",
+        "tuesday": "12:00 PM - 10:00 PM",
+        "wednesday": "12:00 PM - 10:00 PM",
+        "thursday": "12:00 PM - 10:00 PM",
+        "friday": "12:00 PM - 11:00 PM",
+        "saturday": "12:00 PM - 11:00 PM",
+        "sunday": "12:00 PM - 10:00 PM"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Fainting Goat Gelato",
+      "address": {
+        "street": "2210 N 45th St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98103"
+      },
+      "contact": {
+        "phone": "206-327-9459",
+        "website": "https://frankieandjos.com/"
+      },
+      "menu": {
+        "flavors": [
+          "Rhubarb Yuzu",
+          "For the Love of Lemon",
+          "Mint Cookies and Cream",
+          "Chocolate Tahini Supercookie",
+          "Strawberry Milk",
+          "Beet Strawberry Rose Sorbet",
+          "Jamocha Chaga Fudge",
+          "Mint Brownie",
+          "Supercookies & Cream",
+          "Salty Caramel Ash",
+          "Brown Sugar Vanilla",
+          "Salted Pistachio",
+          "Carrot Cake"
+        ],
+        "toppings_extras": [
+          "Moon Goo",
+          "Cone Shatter",
+          "Waffle Cone",
+          "Magic Sandwich",
+          "Shortbread",
+          "Cookie",
+          "Cookie Dough"
+        ],
+        "customizations": {
+          "serving_options": ["Cone", "Cup"],
+          "cone_types": ["Waffle Cone"],
+          "cup_sizes": ["Small", "Medium", "Large", "Pint"]
+        }
+      },
+      "hours": {
+        "monday": "12:00 AM - 10:00 PM",
+        "tuesday": "12:00 AM - 10:00 PM",
+        "wednesday": "12:00 AM - 10:00 PM",
+        "thursday": "12:00 AM - 10:00 PM",
+        "friday": "12:00 AM - 10:00 PM",
+        "saturday": "12:00 AM - 10:00 PM",
+        "sunday": "12:00 AM - 10:00 PM"
       }
     }
   ]
