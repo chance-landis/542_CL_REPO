@@ -1,7 +1,8 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2025-05-15"
+    "last_updated": "2025-05-15",
+    "_description": "ENTER TEXT HERE"
   },
   "shops": [
     {
@@ -190,36 +191,29 @@
       },
       "contact": {
         "phone": "206-327-9459",
-        "website": "https://frankieandjos.com/"
+        "website": "https://www.faintinggoatseattle.com/"
       },
       "menu": {
         "flavors": [
-          "Rhubarb Yuzu",
-          "For the Love of Lemon",
-          "Mint Cookies and Cream",
-          "Chocolate Tahini Supercookie",
-          "Strawberry Milk",
-          "Beet Strawberry Rose Sorbet",
-          "Jamocha Chaga Fudge",
-          "Mint Brownie",
-          "Supercookies & Cream",
-          "Salty Caramel Ash",
-          "Brown Sugar Vanilla",
-          "Salted Pistachio",
-          "Carrot Cake"
+          "Mexican Vanilla",
+          "Double Espresso",
+          "Salted Caramel",
+          "Hazelnut Piamonte",
+          "Tiramisu",
+          "Coconut",
+          "Rose",
+          "Toasted Almond",
+          "Strawberry Sorbet",
+          "Lemon Sorbet",
+          "Lemon Ginger Sorbet",
+          "Mango Sorbet"
         ],
         "toppings_extras": [
-          "Moon Goo",
-          "Cone Shatter",
-          "Waffle Cone",
-          "Magic Sandwich",
-          "Shortbread",
-          "Cookie",
-          "Cookie Dough"
+          "M"
         ],
         "customizations": {
           "serving_options": ["Cone", "Cup"],
-          "cone_types": ["Waffle Cone"],
+          "cone_types": ["Waffle Cone", "Sugar Cone"],
           "cup_sizes": ["Small", "Medium", "Large", "Pint"]
         }
       },
@@ -227,8 +221,8 @@
         "monday": "12:00 AM - 10:00 PM",
         "tuesday": "12:00 AM - 10:00 PM",
         "wednesday": "12:00 AM - 10:00 PM",
-        "thursday": "12:00 AM - 10:00 PM",
-        "friday": "12:00 AM - 10:00 PM",
+        "thursday": "12:00 AM - 11:00 PM",
+        "friday": "12:00 AM - 11:00 PM",
         "saturday": "12:00 AM - 10:00 PM",
         "sunday": "12:00 AM - 10:00 PM"
       }
