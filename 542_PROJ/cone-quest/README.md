@@ -34,6 +34,7 @@ seasonal offerings, toppings, and serving customizations (cone, cup, sizes, etc.
 
 ## Example
 Request: {REQUEST_URL}/shops/names
+
 ["Frankie & Jo's University Village","Molly Moon's Homemade Ice Cream","Sweet 
 Alchemy Ice Cream","Fainting Goat Gelato"]
 
