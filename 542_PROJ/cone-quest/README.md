@@ -32,7 +32,7 @@ purposes.
 Nested JSON file that records store name, hours, address, website, flavors, 
 seasonal offerings, toppings, and serving customizations (cone, cup, sizes, etc.).
 
-## Example
+## Example: *MW UPDATE NEEDED*
 Request: {REQUEST_URL}/shops/names
 
 ["Frankie & Jo's University Village","Molly Moon's Homemade Ice Cream","Sweet 
