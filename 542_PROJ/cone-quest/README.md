@@ -1,12 +1,9 @@
 # Our Information Story
-Cone-Quest is a web page ice cream lovers can turn to in order to find detailed 
-information about ice cream parlors and creameries in the greater Seattle area. 
-Information is collected from various shops in the area and compiled into one 
-source of information ice cream lovers can use to find the right cold treat they 
-are looking for. 
+We want to provide Seattle ice cream lovers with a simple interface that allows them to explore all of the city’s creameries, providing them with important information such as the address of the shops, their hours of operation, and every shop’s product offerings.
+*IN SCOPE? OUT OF SCOPE?*
 
 # Existing Information Structures
-...
+*FAIR ASSESSMENT? TRANSFORMATIONS NEEDED?*
 
 # Our Methodology: Transformation & Access
 Since there is no existing database of Seattle ice cream shops and creameries, this
@@ -41,4 +38,4 @@ Request: {REQUEST_URL}/shops/names
 Alchemy Ice Cream","Fainting Goat Gelato"]
 
 # Performance and Quality
-...
+*DESIRED QUALITY? FINAL QUALITY? REMEDIATION PLAN?*
