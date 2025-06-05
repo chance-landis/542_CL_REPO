@@ -6,6 +6,7 @@ We want to provide Seattle ice cream lovers with a simple interface that allows 
 *FAIR ASSESSMENT? TRANSFORMATIONS NEEDED?*
 
 # Our Methodology: Transformation & Access
+## Transformation
 Since there is no existing database of Seattle ice cream shops and creameries, this
 information was obtained manually. Information was collected by accessing the 
 various shops’ websites, online ordering services (Doordash, Square, etc.), 
