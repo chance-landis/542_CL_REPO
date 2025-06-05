@@ -1,11 +1,11 @@
-## About
+# About
 Cone-Quest is a web page ice cream lovers can turn to in order to find detailed 
 information about ice cream parlors and creameries in the greater Seattle area. 
 Information is collected from various shops in the area and compiled into one 
 source of information ice cream lovers can use to find the right cold treat they 
 are looking for. 
 
-## Methodology
+# Methodology
 Since there is no existing database of Seattle ice cream shops and creameries, this
 information was obtained manually. Information was collected by accessing the 
 various shops’ websites, online ordering services (Doordash, Square, etc.), 
@@ -15,7 +15,7 @@ app. Future maintenance will rely on users and shops submitting updated
 information, which will then be input by Cone-Quest staff on a bi-weekly basis. As 
 the database grows, maintenance will occur as needed.
 
-## Access
+# Access
 Users can access the information through the website or by directly interacting 
 with the API. The web app will provide a friendly front-end for users looking to 
 access information quickly. Through this access format, users will navigate by shop
@@ -28,7 +28,7 @@ the limitations of a web interface. This form of access will be best for direct
 access to data for any individuals who wish to use the data for non-commercial 
 purposes.
 
-## Structure
+# Structure
 Nested JSON file that records store name, hours, address, website, flavors, 
 seasonal offerings, toppings, and serving customizations (cone, cup, sizes, etc.).
 
