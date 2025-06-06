@@ -31,7 +31,7 @@ purposes.
 
 ### Access Instructions:
 
-Requirements: Python 3, Internet Connection, Web Browser
+**Requirements:** Python 3, Internet Connection, Web Browser
 
 1. Download from the GitHub repo the cone_app.py and Shop_Data.json files
 2. Place the two downloaded file into the same folder on your computer
