@@ -29,6 +29,11 @@ the limitations of a web interface. This form of access will be best for direct
 access to data for any individuals who wish to use the data for non-commercial 
 purposes.
 
+### Access Instructions:
+
+1. Download from the GitHub repo the Flask.py and Shop_Data.json files
+3. 
+
 ## Structure
 Nested JSON file that records store name, hours, address, website, flavors, 
 seasonal offerings, toppings, and serving customizations (cone, cup, sizes, etc.).
