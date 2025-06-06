@@ -3,7 +3,8 @@ We want to provide Seattle ice cream lovers with a simple interface that allows 
 *IN SCOPE? OUT OF SCOPE?*
 
 # Existing Information Structures
-*FAIR ASSESSMENT? TRANSFORMATIONS NEEDED?*
+
+Upon research, we found existing information structures to be varied, with ice cream data stored on various sources like websites, delivery apps, or through contacting the store in person or via phone call. Because of this, there wasn't one source we could conduct a FAIR assessment of. So while the information is available for those who are searching, there isn't one good source to attain this information.
 
 # Our Methodology: Transformation & Access
 ## Transformation
@@ -53,3 +54,13 @@ Alchemy Ice Cream","Fainting Goat Gelato"]
 
 # Performance and Quality
 *DESIRED QUALITY? FINAL QUALITY? REMEDIATION PLAN?*
+
+The desired performance of the system is to deliver responses in under 500ms (per request), 99.9% uptime and availability, and supply up-to-date information.
+
+Currently, our system is performing other in the up-to-dateness of our information. However, due to the current size and scale of our product, we believe further testing should be conducted later to get an accurate reading.
+
+To address our information being out of date, we plan to allow businesses to supply new and updated information directly to our service to keep our data fresh and represent the businesses accurately.
+
+For constant alarms and monitoring, we plan to implement a pager duty alert that will throw an error if the uptime decreases past 99.9 per cent or if the response time is greater than a 500 millisecond average. Since we also want to ensure our data is fresh, we will have an alarm that verifies if the time stamps for data updates are less than 24 hours
+
+
