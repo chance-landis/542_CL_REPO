@@ -53,7 +53,6 @@ Request: {REQUEST_URL}/shops/names
 Alchemy Ice Cream","Fainting Goat Gelato"]
 
 # Performance and Quality
-*DESIRED QUALITY? FINAL QUALITY? REMEDIATION PLAN?*
 
 The desired performance of the system is to deliver responses in under 500ms (per request), 99.9% uptime and availability, and supply up-to-date information.
 
