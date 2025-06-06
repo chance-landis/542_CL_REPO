@@ -31,8 +31,15 @@ purposes.
 
 ### Access Instructions:
 
-1. Download from the GitHub repo the Flask.py and Shop_Data.json files
-3. 
+Requirements: Python 3, Internet Connection, Web Browser
+
+1. Download from the GitHub repo the cone_app.py and Shop_Data.json files
+2. Place the two downloaded file into the same folder on your computer
+3. Install required python packages based on requirements.txt `pip install -r /path/to/requirements.txt`
+4. Open the command terminal and navigate to the directory containing the downloaded files
+5. In the terminal run the command `flask --app cone_app run`
+6. Open the web browser and navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000)
+7. In the URL bar, adjust the path to receive the information you are looking for (eg. adding `/shops/names` will return all names)
 
 ## Structure
 Nested JSON file that records store name, hours, address, website, flavors, 
