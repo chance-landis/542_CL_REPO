@@ -1,6 +1,7 @@
 # Our Information Story
 We want to provide Seattle ice cream lovers with a simple interface that allows them to explore all of the city’s creameries, providing them with important information such as the address of the shops, their hours of operation, and every shop’s product offerings.
-*IN SCOPE? OUT OF SCOPE?*
+
+The scope of this project is precise and, in some ways, considerably limited. The information structure is specifically limited to Seattle frozen treat (i.e. ice cream, gelato) stores in the Seattle Metropolitan area. For these stores, only their current ice cream offerings, toppings, sizes, etc, and their address, store hours, and contact information. Future scoping would hopefully include information such as how much of certain flavors the stores have in stock, upcoming flavors, and other additional more precise or future-facing details. However, this is a distinctly future hope, currently out of scope for the project.
 
 # Existing Information Structures
 
@@ -46,7 +47,7 @@ purposes.
 Nested JSON file that records store name, hours, address, website, flavors, 
 seasonal offerings, toppings, and serving customizations (cone, cup, sizes, etc.).
 
-## Example: *MW UPDATE NEEDED*
+## Example
 Request: {REQUEST_URL}/shops/names
 
 ["Frankie & Jo's University Village","Molly Moon's Homemade Ice Cream","Sweet 
@@ -60,6 +61,6 @@ Currently, our system is performing other in the up-to-dateness of our informati
 
 To address our information being out of date, we plan to allow businesses to supply new and updated information directly to our service to keep our data fresh and represent the businesses accurately.
 
-For constant alarms and monitoring, we plan to implement a pager duty alert that will throw an error if the uptime decreases past 99.9 per cent or if the response time is greater than a 500 millisecond average. Since we also want to ensure our data is fresh, we will have an alarm that verifies if the time stamps for data updates are less than 24 hours
+For constant alarms and monitoring, we plan to implement a pager duty alert that will throw an error if the uptime decreases past 99.9 per cent or if the response time is greater than a 500 millisecond average. Since we also want to ensure our data is fresh, we will have an alarm that verifies if the time stamps for data updates are less than 24 hours.
 
 
