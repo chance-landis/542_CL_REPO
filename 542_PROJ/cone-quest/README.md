@@ -48,10 +48,11 @@ Nested JSON file that records store name, hours, address, website, flavors,
 seasonal offerings, toppings, and serving customizations (cone, cup, sizes, etc.).
 
 ## Example
+This request returns the shop names and their identification number in the context of the structure
 Request: {REQUEST_URL}/shops/names
 
-["Frankie & Jo's University Village","Molly Moon's Homemade Ice Cream","Sweet 
-Alchemy Ice Cream","Fainting Goat Gelato"]
+[ 1 "Frankie & Jo's University Village", 2 "Molly Moon's Homemade Ice Cream", 3 "Sweet 
+Alchemy Ice Cream", 4 "Fainting Goat Gelato"]
 
 # Performance and Quality
 
